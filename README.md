@@ -41,4 +41,3 @@ Step 9: Format the Dashboard
 Step 10: Save & Publish
 •	Save your report (.pbix).
 •	Click on Publish to upload it to Power BI Service.
-
